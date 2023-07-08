@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4086ff&height=120&section=header"/>
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/805426328308562563/0612D7DDC1F79D1D95F3EE654EB54F05A5DDA92A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image Description" width="510px" align="left" border-radius="50%">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/805426328308562563/0612D7DDC1F79D1D95F3EE654EB54F05A5DDA92A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image Description" width="400px" align="left" border-radius="50%">
 
 ```python
 class Leandro:
@@ -48,4 +48,4 @@ class Leandro:
   <a href="https://discord.com/users/eroks" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake Animation](https://github.com/Lsouz44/Lsouz44/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake Animation](https://github.com/Lsouz44/Lsouz44/blob/output/github-contribution-grid-snake.svg)-->
