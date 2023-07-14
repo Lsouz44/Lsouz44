@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4086ff&height=120&section=header"/>
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/805426328308562563/0612D7DDC1F79D1D95F3EE654EB54F05A5DDA92A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image Description" width="400px" align="left" border-radius="50%">
-
+.
 ```python
 class Leandro:
   print("Saudações! Me chamo Leandro!")
