@@ -48,4 +48,4 @@ class Leandro:
   <a href="https://discord.com/users/eroks" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-<!--![Snake Animation](https://github.com/Lsouz44/Lsouz44/blob/output/github-contribution-grid-snake.svg)-->
+<![Snake Animation](https://github.com/Lsouz44/Lsouz44/blob/output/github-contribution-grid-snake.svg)>
