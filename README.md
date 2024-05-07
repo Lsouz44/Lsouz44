@@ -10,10 +10,10 @@ class Leandro:
   estudandoAtualmente = ("Python", "Java", "C")
 
   for i in "tenhoInteresse":
-    print("Em formar na graduação 🤣")
+    print("Estagiar e expandir minhas habilidades")
 
-  elif Dota 2, Cervejinha, Paiero:
-    print("Nas horas vagas"}
+  elif "nasHorasVagas":
+    print("Dota 2, Cervejinha, Churrasco"}
   
 "The more you learn, the more you earn" - Warren Buffett.
 ```
