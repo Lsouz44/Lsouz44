@@ -6,14 +6,14 @@
 class Leandro:
   print("Saudações! Me chamo Leandro!")
 
-  cursando = ("Ciência da Computação - UFSJ")
-  estudandoAtualmente = ("Python", "Java", "C")
+  formadoEm = ("Ciência da Computação - UFSJ")
+  estudandoAtualmente = ("NestJS", "Flutter", "React")
 
   for i in "tenhoInteresse":
-    print("Estagiar e expandir minhas habilidades")
+    print("Encarar desafios e participar de grandes projetos")
 
   elif "nasHorasVagas":
-    print("Dota 2, Cervejinha, Churrasco"}
+    print("Games, Cervejinha, Churrasco"}
   
 "The more you learn, the more you earn" - Warren Buffett.
 ```
